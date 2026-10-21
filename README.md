@@ -5,8 +5,7 @@ A responsive static portfolio built with semantic HTML, CSS, and vanilla JavaScr
 ## 1. Run locally
 
 1. Open this folder in a terminal.
-2. Run `python -m http.server 8000`.
-3. Visit `http://localhost:8000`.
+2. and do go live to run html file
 
 The contact form intentionally does **not** claim to submit successfully from a local preview. Real submissions require a deployed Netlify site with form detection enabled and `netlifyFormsEnabled: true` in `portfolioConfig`.
 
